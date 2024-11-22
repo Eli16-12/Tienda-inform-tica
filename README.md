@@ -1,10 +1,8 @@
-# Tienda-inform-tica
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda de Informática</title>
 </head>
 <body>
     <header>
@@ -26,7 +24,7 @@
             <li><a href="productos.html#portatil" title="Ver portatil Xtreme">Portatil Xtreme</a></li>
             <li><a href="productos.html#monitor" title="Ver monitor UltraView">Monitor UltraView</a></li>
         </ul>
-        <img src="tienda_inicio.jpg" alt="Vista de nuestra tienda" title="Tienda de informática">
+        <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/imagen89d921aac7337a84da709e90e219e207.jpg" alt="Vista de nuestra tienda" title="Tienda de informática">
     </section>
     <footer>
         <p>&copy; 2024 Tienda de Informática. Todos los derechos reservados.</p>
@@ -39,31 +37,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Productos</title>
 </head>
 <body>
     <header>
         <h1>Productos de la tienda</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="index.html" title="Página principal">Inicio</a></li>
-            <li><a href="productos.html" title="Ver productos">Productos</a></li>
-            <li><a href="ofertas.html" title="Ver ofertas">Ofertas</a></li>
-            <li><a href="contacto.html" title="Atención al cliente">Contacto</a></li>
-        </ul>
-    </nav>
     <section>
         <h2>Nuestros Productos</h2>
         <article id="portatil">
             <h3>Portatil Xtreme 15</h3>
-            <img src="" alt="Portatil Xtreme 15" title="Portatil Xtreme 15">
+            <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/modelo-acer-1.jpg" alt="Portatil Xtreme 15" title="Portatil Xtreme 15">
             <p><strong>Precio:</strong>699.90€</p>
             <p><em>Potente, ligero y con la última tecnología, ideal para profesionales y gamers.</em></p>
         </article>
         <article id="monitor">
             <h3>Monitor UltraView 27"</h3>
-            <img src="monitor.jpg" alt="Monitor UltraView 27" title="Monitor UltraView 27">
+            <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/450_1000.jpg" alt="Monitor UltraView 27" title="Monitor UltraView 27">
             <p><strong>Precio:</strong>300€</p>
             <p><em>Con una resolución 4K y una pantalla amplia para una experiencia visual sin igual.</em></p>
         </article>
@@ -79,20 +68,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ofertas</title>
 </head>
 <body>
     <header>
         <h1>Ofertas</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="index.html" title="Página principal">Inicio</a></li>
-            <li><a href="productos.html" title="Ver productos">Productos</a></li>
-            <li><a href="ofertas.html" title="Ver ofertas">Ofertas</a></li>
-            <li><a href="contacto.html" title="Atención al cliente">Contacto</a></li>
-        </ul>
-    </nav>
     <section>
         <h2>Ofertas por tiempo limitado</h2>
         <p><b>¡No te pierdas nuestras promociones de black friday!</b></p>
@@ -112,7 +92,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contacto</title>
 </head>
 <body>
     <header>
