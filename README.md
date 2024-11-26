@@ -113,7 +113,6 @@
             <label for="email">Correo Electrónico:</label><br>
             <input type="email" id="email" name="email" required><br><br>
             <label for="mensaje">Mensaje:</label><br>
-            <textarea id="mensaje" name="mensaje" required></textarea><br><br>
             <input type="submit" value="Enviar">
         </form>
     </section>
