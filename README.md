@@ -60,7 +60,7 @@
         </article>
          <article id="teclado">
             <h3>Teclado</h3>
-            <img src="" alt="Teclado" title="Teclado">
+            <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/611g0QNYpQL._AC_UF894%2C1000_QL80_.jpg" alt="Teclado" title="Teclado">
             <p><strong>Precio:</strong>75€</p>
             <p><em>Ligero y con la última tecnología en teclados.</em></p>
         </article>
