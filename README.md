@@ -23,6 +23,8 @@
         <ul>
             <li><a href="productos.html#portatil" title="Ver portatil Xtreme">Portatil Xtreme</a></li>
             <li><a href="productos.html#monitor" title="Ver monitor UltraView">Monitor UltraView</a></li>
+            <li><a href="productos.html#teclado" title="Ver teclado">Teclado</a></li>
+            <li><a href="productos.html#ratón" title="Ver ratón">Ratón</a></li>
         </ul>
         <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/imagen89d921aac7337a84da709e90e219e207.jpg" alt="Vista de nuestra tienda" title="Tienda de informática">
     </section>
@@ -55,6 +57,18 @@
             <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/450_1000.jpg" alt="Monitor UltraView 27" title="Monitor UltraView 27">
             <p><strong>Precio:</strong>300€</p>
             <p><em>Con una resolución 4K y una pantalla amplia para una experiencia visual sin igual.</em></p>
+        </article>
+         <article id="teclado">
+            <h3>Teclado</h3>
+            <img src="" alt="Teclado" title="Teclado">
+            <p><strong>Precio:</strong>75€</p>
+            <p><em>Ligero y con la última tecnología en teclados.</em></p>
+        </article>
+         <article id="ratón">
+            <h3>Ratón</h3>
+            <img src="" alt="Ratón" title="Ratón">
+            <p><strong>Precio:</strong>50€</p>
+            <p><em>Ratón óptico inalámbrico, ligero y cómodo.</em></p>
         </article>
     </section>
     <footer>
