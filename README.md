@@ -66,7 +66,7 @@
         </article>
          <article id="ratón">
             <h3>Ratón</h3>
-            <img src="" alt="Ratón" title="Ratón">
+            <img src="https://github.com/Eli16-12/Tienda-inform-tica/blob/main/51piJTmCqlL.jpg" alt="Ratón" title="Ratón">
             <p><strong>Precio:</strong>50€</p>
             <p><em>Ratón óptico inalámbrico, ligero y cómodo.</em></p>
         </article>
